@@ -1,2 +1,2 @@
-# mcmc_notebook
-Notebook on exploration of MCMC method
+# Statistics notebook
+Notebook on exploration of Statistics
